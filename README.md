@@ -24,7 +24,7 @@ The program prints a welcome message, asks the user for the current temperature,
 
 ## 📂 File
 
-- `hello.py` – contains all the code for this program
+- `Hello.py` – contains all the code for this program
 
 ## 🔓 License
 
