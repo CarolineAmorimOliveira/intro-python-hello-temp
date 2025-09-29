@@ -1,4 +1,4 @@
-# 🐍 Introduction to Python – Hello & Temperature Program
+# Introduction to Python – Hello & Temperature Program
 
 This is my **first Python project**, created as part of the **Introduction to Programming Concepts** course at **Valencia College (Dual Enrollment)**.
 
@@ -36,4 +36,3 @@ See the [LICENSE](LICENSE) file for more details.
 
 Caroline Amorim Oliveira  
 High School Senior | Valencia College Dual Enrollment  
-[GitHub Profile](https://github.com/CarolineAmorimOliveira)
